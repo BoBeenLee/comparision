@@ -9,3 +9,7 @@
 
 ## TypeScript runtime comparisons
 - https://github.com/privatenumber/ts-runtime-comparison
+
+
+## Comparison | NPM vs PNPM vs Yarn vs Yarn PnP
+- https://github.com/pnpm/pnpm#benchmark
